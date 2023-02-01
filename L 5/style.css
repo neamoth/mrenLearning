@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin: 0;
+}
+
+.containerLeft{
+    background-color: red;
+    height: 12.5rem;
+    width: 12.5rem;
+    font-weight: 700;
+    color: white;
+}
+.containerMiddle{
+    background-color: rgb(217, 0, 255);
+    margin-left: 12.5rem;
+    height: 12.5rem;
+    width: 12.5rem;
+}
+.containerRight{
+    background-color: rgb(0, 255, 89);
+    margin-left: 25rem;
+    height: 12.5rem;
+    width: 12.5rem;
+}
+
+
+.red{
+    height: 6.25rem;
+    width: 6.25rem;
+    background-color: red;
+    position: relative;
+    left: 13.1rem;
+    display: inline-block;
+}
+.blue{
+    height: 6.25rem;
+    width: 6.25rem;
+    background-color: blue;
+    position: relative;
+    right: 6.25rem;
+    display: inline-block;
+}
+.yallow{
+    height: 6.25rem;
+    width: 6.25rem;
+    background-color: yellow;
+    position: relative;
+    right: 6.25rem;
+    display: inline-block;
+}
