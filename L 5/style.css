@@ -6,6 +6,12 @@ h1{
     margin: 0;
 }
 
+.header{
+    height: 2.5rem;
+    background-color: rgb(5, 242, 255);
+    position: fixed;
+}
+
 .containerLeft{
     background-color: red;
     height: 12.5rem;
@@ -77,5 +83,6 @@ h1{
     height: 6.25rem;
     width: 6.25rem;
     background-color: yellow;
-    /* position: absolute; */
+    position: absolute;
+    bottom: -24.1rem;
 }
