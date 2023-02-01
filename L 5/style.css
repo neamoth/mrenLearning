@@ -26,6 +26,11 @@ h1{
     width: 12.5rem;
 }
 
+.task{
+    position: relative;
+    left: 50%;
+    margin-bottom: 3rem;
+}
 
 .red{
     height: 6.25rem;
@@ -50,4 +55,27 @@ h1{
     position: relative;
     right: 6.25rem;
     display: inline-block;
+}
+
+.red1{
+    height: 6.25rem;
+    width: 6.25rem;
+    background-color: red;
+    position: absolute;
+    left: 12.5rem;
+    bottom: -36.75rem;
+}
+.blue1{
+    height: 6.25rem;
+    width: 6.25rem;
+    background-color: blue;
+    position: absolute;
+    left: 6.25rem;
+    bottom: -30.50rem;
+}
+.yellow1{
+    height: 6.25rem;
+    width: 6.25rem;
+    background-color: yellow;
+    /* position: absolute; */
 }
