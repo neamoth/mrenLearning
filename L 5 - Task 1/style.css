@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #ECF9FF;
+}
+.topContainer{
+    padding-top: 8rem;
+}
+.midContainer{
+
+}
+.bottomContainer{
+    
+}
+.cloudTop{
+    position: absolute;
+    top: 4rem;
+    right: 16rem;
+}
+.cloudBottom{
+    position: absolute;
+    left: 16rem;
+    bottom: 16rem;
+
+}
